@@ -1,4 +1,4 @@
 name: HelloWorld
-main: com.jereq.bukkit.helloworld
+main: com.jereq.bukkit.helloworld.HelloWorld
 version: 0.1
 author: Sebastian Larsson
