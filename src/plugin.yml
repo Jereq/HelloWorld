@@ -2,3 +2,11 @@ name: HelloWorld
 main: com.jereq.bukkit.helloworld.HelloWorld
 version: 0.1
 author: Sebastian Larsson
+description: >
+             My first bukkit plugin
+commands:
+  hello:
+    description: Says 'Hello World!'
+    usage: |
+           /<command>
+           Example: /<command> - Tells you 'Hello World!'
